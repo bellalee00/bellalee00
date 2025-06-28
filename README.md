@@ -41,4 +41,9 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+
+  
+<hr />
+<p align="center">
+  <img src="https://github.com/bellalee00/bellalee00/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
