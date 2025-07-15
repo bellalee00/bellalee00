@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Bella</h1>
-<h3 align="center">Enthusiastic student exploring the realms of programming and technology, currently focusing on HTML and CSS. I take pleasure in collaborating and learning from the developer community.</h3>
+<h3 align="center">Enthusiastic student diving into the world of programming and technology, with a strong focus on Front-End development, Fullstack projects, and Cloud Computing. I enjoy building interactive user experiences, working across the tech stack, and continuously learning through collaboration with the developer community.</h3>
 <hr />
 <p align="center">
   <img src="https://github.com/bellalee00/bellalee00/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
