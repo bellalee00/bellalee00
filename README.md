@@ -1,6 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Bella</h1>
 <h3 align="center">Enthusiastic student exploring the realms of programming and technology, currently focusing on HTML and CSS. I take pleasure in collaborating and learning from the developer community.</h3>
-
+<hr />
+<p align="center">
+  <img src="https://github.com/bellalee00/bellalee00/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 <p align="center">
   📫 How to reach me: <strong>bellaazka61@gmail.com</strong>
 </p>
@@ -41,9 +44,3 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-
-  
-<hr />
-<p align="center">
-  <img src="https://github.com/bellalee00/bellalee00/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
