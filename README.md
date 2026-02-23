@@ -1,16 +1,37 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif"  />
+  <img height="250" src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div>
-  <img style="50%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&reversal=false&text=Hi%20there!&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=40&section=header&reversal=false&fontSize=35&fontColor=FFEE8C&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=0&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<p align="left">I'm Bella, an enthusiastic student with a passion for technology and software development, currently focused on Front-End, Fullstack, and Cloud Computing.<br><br><br>💡 I enjoy creating interactive user experiences, building scalable applications, and learning alongside the developer community.<br><br>🔭 Right now, I'm focusing on:<br><br>✨ Front-End Development<br>🛠️ Fullstack Projects<br>☁️ Cloud Computing (especially with GCP and Firebase)<br><br>⚡ Fun fact: "I believe I have a creative mindset."</p>
+<h1 align="center">Hi there! 🙋🏻‍♀️</h1>
+
+###
+
+<p align="center">
+I'm <strong>Bella</strong>, an enthusiastic student with a passion for technology and software development, currently focused on <strong>Front-End</strong>, <strong>Fullstack</strong>, and <strong>Cloud Computing</strong>.
+</p>
+
+<br>
+
+💡 I enjoy creating interactive user experiences, building scalable applications, and learning alongside the developer community.  
+
+🔭 Right now, I'm focusing on:
+- ✨ Front-End Development  
+- 🛠️ Fullstack Projects  
+- ☁️ Cloud Computing (especially with GCP and Firebase)  
+
+<br>
+
+⚡ Fun fact: <em>"I believe I have a creative mindset."</em>
 
 ###
 
@@ -22,9 +43,9 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=bellalee00&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bellalee00&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bellalee00&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bellalee00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
 
 ###
 
@@ -32,7 +53,7 @@
 
 ###
 
-<img align="left" height="70" src="https://i.pinimg.com/originals/28/bc/44/28bc44b5eed41b8a0b7829231bd684ad.gif"  />
+<img align="left" height="55" src="https://i.pinimg.com/originals/28/bc/44/28bc44b5eed41b8a0b7829231bd684ad.gif"  />
 
 ###
 
@@ -47,6 +68,12 @@
 <br clear="both">
 
 <h2 align="left">Tech Stack</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="100" src="https://files.strawcdn.com/straw/nrHeSiCNMAGYUqKGEajO.gif"  />
 
 ###
 
@@ -96,12 +123,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-# ☁️ Google Cloud Skills Boost
+## ☁️ Google Cloud Skills Boost 
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/View%20My%20GCSB%20Profile-%230095D5.svg?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/80bdf185-cbb0-4c00-8f10-51da0f16523b)
+
 ###
 
 <hr />
 <p align="center">
   <img src="https://github.com/bellalee00/bellalee00/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
+
+###
+
+<div align="center">
+  <img height="260" src="https://blog.nicalis.com/blog/img/fishiesncrab.gif"  />
+</div>
