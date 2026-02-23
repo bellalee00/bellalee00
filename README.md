@@ -17,7 +17,7 @@
 ###
 
 <p align="center">
-I'm <strong>Bella</strong>, an enthusiastic student with a passion for technology and software development, currently focused on <strong>Front-End</strong>, <strong>Fullstack</strong>, and <strong>Cloud Computing</strong>.
+I'm <strong>Bella</strong>, an enthusiastic student with a passion for technology and software development, currently<br>focused on <strong>Front-End</strong>, <strong>Fullstack</strong>, and <strong>Cloud Computing</strong>.
 </p>
 
 <br>
