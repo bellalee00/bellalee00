@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif"  />
+  <img height="260" src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif"  />
 </div>
 
 ###
@@ -75,16 +75,13 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </div>
 
 ###
-
 <br clear="both">
 
 <h2 align="left">Tech Stack</h2>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="123" src="https://files.strawcdn.com/straw/nrHeSiCNMAGYUqKGEajO.gif"  />
+<img align="right" height="125" src="https://files.strawcdn.com/straw/nrHeSiCNMAGYUqKGEajO.gif"  />
 
 ###
 
@@ -181,6 +178,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </div>
 
 ###
+<br clear="both">
 
 ## ☁️ Google Cloud Skills Boost 
 
