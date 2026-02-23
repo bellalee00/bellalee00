@@ -32,20 +32,19 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 <br>
 
 ⚡ Fun fact: <em>"I believe I have a creative mindset."</em>
-
 ###
+---
+<br clear="both">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bellalee00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="500" alt="streak graph" />
+</div>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bellalee00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
 
 ###
 
@@ -186,12 +185,10 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 
 ###
 
-<hr />
-<p align="center">
-  <img src="https://github.com/bellalee00/bellalee00/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
+<img src="https://raw.githubusercontent.com/bellalee00/bellalee00/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <div align="center">
   <img height="260" src="https://blog.nicalis.com/blog/img/fishiesncrab.gif"  />
