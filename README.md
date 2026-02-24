@@ -59,17 +59,17 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </div>
 
 ###
-<br clear="both">
+
 
 <h2 align="left">Tech Stack</h2>
 
 ###
 
-<img align="right" height="125" src="https://files.strawcdn.com/straw/nrHeSiCNMAGYUqKGEajO.gif"  />
+<img align="right" height="100" src="https://i.pinimg.com/originals/5a/c6/1c/5ac61cf4028d6da14546c08370fb9f81.gif"  />
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 14px;">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px;">
 
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
@@ -114,7 +114,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
   <a href="https://flutter.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" alt="Flutter"/>
   </a>
-<br>
+
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow"/>
   </a>
@@ -126,7 +126,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
   <a href="https://nodejs.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/>
   </a>
-
+<br>
   <a href="https://www.docker.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker"/>
   </a>
@@ -162,7 +162,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </div>
 
 ###
-<br clear="both">
+
 
 ## Google Cloud Skills Boost 
 
@@ -179,9 +179,5 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 
 ###
 ---
-<div align="center">
-  <img height="330" src="https://64.media.tumblr.com/tumblr_maqky1YII21rfjowdo1_500.gif"  />
-</div>
 
-###
 <!-- ©Bella Azka Cantik 2026 -->
