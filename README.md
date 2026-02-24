@@ -69,7 +69,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px;">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 160px;">
 
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
