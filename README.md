@@ -177,6 +177,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 [![Google Cloud Skills Boost](https://img.shields.io/badge/View%20My%20GCSB%20Profile-%230095D5.svg?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/80bdf185-cbb0-4c00-8f10-51da0f16523b)
 
 ###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph-dark.svg">
