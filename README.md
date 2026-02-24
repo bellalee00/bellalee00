@@ -114,7 +114,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
   <a href="https://flutter.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" alt="Flutter"/>
   </a>
-
+<br>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow"/>
   </a>
@@ -130,7 +130,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
   <a href="https://www.docker.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker"/>
   </a>
-<br>
+
   <a href="https://git-scm.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>
   </a>
