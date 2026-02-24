@@ -47,6 +47,7 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </picture>
 
 ###
+
 <h2 align="left">Socials</h2>
 
 ###
