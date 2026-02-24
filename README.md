@@ -179,6 +179,10 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 ###
 ---
 
+<div align="center">
+  <img height="260" src="https://blog.nicalis.com/blog/img/fishiesncrab.gif"  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph.svg">
@@ -187,7 +191,3 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 
 ###
 
-
-<div align="center">
-  <img height="260" src="https://blog.nicalis.com/blog/img/fishiesncrab.gif"  />
-</div>
