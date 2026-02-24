@@ -1,19 +1,11 @@
 <div align="center">
-  <img height="260" src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=40&section=header&reversal=false&fontSize=35&fontColor=FFEE8C&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=0&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img height="260" src="https://i.pinimg.com/originals/92/73/e6/9273e642fd82b708d44eab55ec226f3c.gif"  />
 </div>
 
 
 ###
 
-<h1 align="center">Hi there! 🙋🏻‍♀️</h1>
+<h1 align="center">Hi there!</h1>
 
 ###
 
@@ -22,6 +14,11 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </p>
 
 <br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bellalee00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=7&order=3" height="500" alt="streak graph" />
+</div>
+
+###
 
 💡 I enjoy creating interactive user experiences, building scalable applications, and learning alongside the developer community.  
 
@@ -35,11 +32,6 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 ⚡ Fun fact: <em>"I believe I have a creative mindset."</em>
 ###
 ---
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bellalee00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=7&order=3" height="500" alt="streak graph" />
-</div>
-
-###
 
 <h2 align="left">Socials</h2>
 
@@ -172,16 +164,12 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 ###
 <br clear="both">
 
-## ☁️ Google Cloud Skills Boost 
+## Google Cloud Skills Boost 
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/View%20My%20GCSB%20Profile-%230095D5.svg?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/80bdf185-cbb0-4c00-8f10-51da0f16523b)
 
 ###
 ---
-
-<div align="center">
-  <img height="260" src="https://blog.nicalis.com/blog/img/fishiesncrab.gif"  />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph-dark.svg">
@@ -190,4 +178,10 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </picture>
 
 ###
+---
+<div align="center">
+  <img height="330" src="https://64.media.tumblr.com/tumblr_maqky1YII21rfjowdo1_500.gif"  />
+</div>
 
+###
+<!-- ©Bella Azka Cantik 2026 -->
