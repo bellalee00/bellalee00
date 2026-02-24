@@ -34,11 +34,11 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 ⚡ Fun fact: <em>"I believe I have a creative mindset."</em>
 ###
 ---
-<br clear="both">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bellalee00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="500" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=bellalee00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=7&order=3" height="500" alt="streak graph" />
 </div>
-<br>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellalee00/bellalee00/output/pacman-contribution-graph-dark.svg">
@@ -47,7 +47,6 @@ I'm <strong>Bella</strong>, an enthusiastic student with a passion for technolog
 </picture>
 
 ###
-
 <h2 align="left">Socials</h2>
 
 ###
